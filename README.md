@@ -1,5 +1,11 @@
 # Duna Landing Page
 
+
+
+https://github.com/user-attachments/assets/6a00e0ef-dce7-4091-b6a3-e61e50c0b5cf
+
+
+
 Landing page criada com o intuito de promover o filme *Duna*, utilizando **Tailwind CSS** e **Flowbite**. A página é responsiva e interativa, destacando os principais atores e personagens do filme.
 
 ## Tecnologias Utilizadas
